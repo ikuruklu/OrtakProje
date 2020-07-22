@@ -1,3 +1,1 @@
-print("Merhaba")
-
-print("MErhaba ")
+print("Merhabalar Herkese")
